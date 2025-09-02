@@ -1,1 +1,2 @@
 # Personal-Portfolio
+This is my personal portfolio website, built to showcase my projects, skills, and experience as a Computer Science student at Georgia Tech. It highlights the work I’ve done in software development, AI/ML, and full-stack projects, and serves as a central place to share my resume, GitHub, and LinkedIn. The site is designed to be simple to maintain and easy to update as I continue learning and growing in the field.
